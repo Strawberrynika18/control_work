@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nika\\Desktop\\tests\\control_work\\control_work.csproj",
-      "projectName": "control_work",
-      "projectPath": "C:\\Users\\nika\\Desktop\\tests\\control_work\\control_work.csproj",
+      "projectUniqueName": "C:\\Users\\nika\\Desktop\\tests\\control_work\\РешениеЗадачи\\РешениеЗадачи.csproj",
+      "projectName": "РешениеЗадачи",
+      "projectPath": "C:\\Users\\nika\\Desktop\\tests\\control_work\\РешениеЗадачи\\РешениеЗадачи.csproj",
       "packagesPath": "C:\\Users\\nika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nika\\Desktop\\tests\\control_work\\obj\\",
+      "outputPath": "C:\\Users\\nika\\Desktop\\tests\\control_work\\РешениеЗадачи\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nika\\AppData\\Roaming\\NuGet\\NuGet.Config"
